@@ -7,6 +7,3 @@ modules:
   -
     name: test1
     uuid: notarealuuid
-  -
-    name: myModuleName
-    uuid: a-fake-uuid
