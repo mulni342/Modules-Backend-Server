@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "allowJs": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "resolveJsonModule": true,
+        "declaration": false,
+        "outDir": "dist/",
+        "rootDirs": ["./src"],
+        "strict": true,
+        "typeRoots": ["./node_modules/@types", "./src/typing"]
+    },
+    "include": [
+        "src/"
+    ]
+}

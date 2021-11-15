@@ -1,0 +1,12 @@
+PORT: 8033
+SERVERTYPE: API # type 2: API
+modules: 
+  -
+    name: myModule
+    uuid: myModuleUUid
+  -
+    name: test1
+    uuid: notarealuuid
+  -
+    name: myModuleName
+    uuid: a-fake-uuid
